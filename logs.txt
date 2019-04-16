@@ -1,0 +1,6 @@
+$ git log
+commit 99388301db0042e17af05eef01d0feadddce4523 (HEAD -> logs, origin/master, master)
+Author: arnent <arn1e@live.com>
+Date:   Tue Apr 16 15:42:04 2019 +0200
+
+    Initial commit
